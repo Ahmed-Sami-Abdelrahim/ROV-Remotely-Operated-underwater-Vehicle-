@@ -13,4 +13,6 @@
 - **Arduino**
 - **Ethernet Shield/Module**
 
+https://github.com/user-attachments/assets/161c6837-d076-44b9-b1f7-6f8bb9b870ee
+
 ---
