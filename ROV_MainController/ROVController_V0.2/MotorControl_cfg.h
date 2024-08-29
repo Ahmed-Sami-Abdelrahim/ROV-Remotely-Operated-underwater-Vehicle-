@@ -1,0 +1,20 @@
+
+#ifndef _MOTOR_CONTROL_CFG_
+#define _MOTOR_CONTROL_CFG_
+
+#define MOTOR_APP_SERIAL_DEBUG 1
+
+#define MOTORAX_DIR_PIN    35
+#define MOTORAX_SPEED_PIN  6
+
+#define MOTORBX_DIR_PIN    36
+#define MOTORBX_SPEED_PIN  3
+
+
+#define MOTORAY_DIR_PIN    37
+#define MOTORAY_SPEED_PIN  5
+
+#define MOTORBY_DIR_PIN    38
+#define MOTORBY_SPEED_PIN  4
+
+#endif /*_MOTOR_CONTROL_CFG_*/

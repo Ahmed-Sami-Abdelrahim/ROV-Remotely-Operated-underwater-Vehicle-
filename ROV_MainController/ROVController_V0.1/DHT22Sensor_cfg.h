@@ -1,0 +1,9 @@
+#ifndef _DHT22_SENSOR_CFG_
+#define _DHT22_SENSOR_CFG_
+
+#define DHT_READING_TIME (3000U)
+#define DHT_SENSOR_PIN  26
+#define DHT_SENSOR_TYPE DHT22
+#define DEBUG_DHT   1
+#define DHT_OFFSET 10
+#endif /*_DHT22_SENSOR_CFG_*/
