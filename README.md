@@ -7,12 +7,12 @@
 ---
 ## **Components**
 
-- **Joystick Controllers**
 - **DHT22 Sensor**
 - **pH Sensor**
 - **Camera**
 - **Arduino**
 - **Ethernet Shield/Module**
+- **Joystick Controllers**
 
 https://github.com/user-attachments/assets/161c6837-d076-44b9-b1f7-6f8bb9b870ee
 
